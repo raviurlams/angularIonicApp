@@ -19,24 +19,14 @@ Open the file 'ionic-sdk\app\config\constants.js' and replace 'DSP_API_KEY' with
 2. Install the the latest beta version of the Ionic CLI:
     ```
     npm install -g ionic@beta
-    ```
-
-3. Clone this repository into your local
-    ```
-    https://drive.google.com/folderview?id=0B8tnKlUNjP6gOXl6Yzh2emd2ZU0&usp=sharing
-    ```
-    
-4. Navigate to the ionic-sdk directory:
-    ```
-    cd ionic-sdk
-    ```
-
-5. Install the dependencies
+   ```
+  
+3. Install the dependencies
     ```
     npm install
     ```
     
-6. Start the app in the browser
+4. Start the app in the browser
     ```
     ionic serve -l
     ```
